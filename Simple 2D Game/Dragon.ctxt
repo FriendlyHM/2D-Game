@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dragon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dragon\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Dragon()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Dragon\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ animation()
+comment4.params=
+comment4.target=void\ fireWave()
+comment4.text=\r\n\ creates\ a\ fire\ circle\ that\ will\ slow\ down\ the\ character\r\n
+comment5.params=
+comment5.target=void\ createAI()
+comment5.text=\r\n\ creates\ a\ wave\ of\ AI\r\n
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Animation
+comment1.params=first\ last\ animateSpeed
+comment1.target=void\ animate(int,\ int,\ int)
+comment1.text=\r\n\ animates\ method\r\n
+numComments=2

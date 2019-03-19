@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Weapons
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Weapons\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ speed\ range\ damage\ stuntCounter
+comment1.target=Weapons(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRange()
+comment2.text=\r\n\ returns\ range\r\n
+comment3.params=
+comment3.target=void\ attack()
+comment3.text=\r\n\ damages\ the\ AI\r\n
+comment4.params=clss
+comment4.target=boolean\ touch(java.lang.Class)
+comment4.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Return,\ if\ it\ intersects\ an\ actor\ of\ the\ given\ class
+comment5.params=a_big
+comment5.target=boolean\ touch(greenfoot.Actor)
+comment5.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Returns\ true,\ if\ the\ object\ touchs\ the\ given\ Actor
+numComments=6

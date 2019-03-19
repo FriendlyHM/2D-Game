@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Head
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Head\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=maxCharSpeed\ name
+comment1.target=Head(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment3.text=\r\n\ Overides\ the\ AnimatedActor\ class'\ checkKeys()\r\n
+comment4.params=
+comment4.target=void\ checkBody()
+comment4.text=\r\n\ for\ the\ head\ to\ never\ leave\ the\ body\ and\ wander\ somewhere\ else\ on\ the\ map\r\n
+numComments=5
