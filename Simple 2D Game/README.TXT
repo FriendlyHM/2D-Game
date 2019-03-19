@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: 2D Monster Shooting
+PURPOSE OF PROJECT: Intro to Java Object Oriented Programming
+VERSION or DATE: v1.0
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Huan Mai
+USER INSTRUCTIONS: Please download Greenfoot (https://www.greenfoot.org/door) to use this program
+Credit: ScrollingWorld class created by Danpost
