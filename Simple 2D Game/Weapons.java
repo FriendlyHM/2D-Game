@@ -14,6 +14,7 @@ public class Weapons extends Animation
     private int damage;
     private int stuntCounter;
     private int timer = 0;
+    private int direction;
 
     public Weapons(String name, int speed, int range, int damage, int stuntCounter)
     {

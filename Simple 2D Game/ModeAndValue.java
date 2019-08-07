@@ -14,6 +14,7 @@ public class ModeAndValue
     public static int health = 40;
     public static int maxSpeed = 0;
     public static int damage = 0;
+    public static int fireLevel = 0;
     public static boolean music = true;
     /**
      * Act - do whatever the Mode wants to do. This method is called whenever
@@ -28,5 +29,6 @@ public class ModeAndValue
         health = 40;
         maxSpeed = 0;
         damage = 0;
+        fireLevel = 0;
     }
 }

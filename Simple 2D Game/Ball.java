@@ -10,11 +10,10 @@ public class Ball extends Weapons
 {
     public Ball()
     {
-        super ("Ball",5, 40, 1, 15); //(name, speed, range, damage, stuntCounter)
-        getImage().scale((getImage().getWidth()-5), (getImage().getHeight()-5));
-        
+        //(name, speed, range, damage, stuntCounter)
+        super ("Ball",5, 40, 1, 15);
+        getImage().scale((getImage().getWidth()-5), (getImage().getHeight()-5)); 
     }
-
     /**
      * Act - do whatever the Blade wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.

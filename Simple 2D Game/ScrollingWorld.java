@@ -175,6 +175,8 @@ public class ScrollingWorld extends World
         addObject(dd, 120, 100, false);
         DisplaySpeed ds = new DisplaySpeed();
         addObject(ds, 120, 70, false);
+        DisplayFireLevel df = new DisplayFireLevel();
+        addObject(df, 120, 130, false);
         Sound sound = new Sound();
         addObject(sound,840,625, false);
     }

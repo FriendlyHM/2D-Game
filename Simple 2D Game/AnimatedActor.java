@@ -149,7 +149,7 @@ public class AnimatedActor extends Animation
         {
             Weapons weapon = new Ball();
             ((ScrollingWorld)getWorld()).addObject(weapon, getX()+ ((ScrollingWorld)getWorld()).getScrolledX(), getY()+ ((ScrollingWorld)getWorld()).getScrolledY());//create a weapon
-            attackDelay = 40;//refill the delay for next attack
+            attackDelay = 40 - ModeAndValue.fireLevel;//refill the delay for next attack
         } else {
             attackDelay--;//decrease delay time to zero so the character can attack
         }

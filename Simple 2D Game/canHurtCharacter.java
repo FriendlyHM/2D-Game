@@ -363,6 +363,11 @@ public class canHurtCharacter extends Animation
                 Damage d = new Damage();
                 w.addObject(d, getX()+w.getScrolledX(),getY()+w.getScrolledY());
                 w.removeObject(this);
+            }else if (chancesOfItems == 4) //chance of dropping fireLevel-increased item
+            {
+                FireLevel f = new FireLevel();
+                w.addObject(f, getX()+w.getScrolledX(),getY()+w.getScrolledY());
+                w.removeObject(this);
             } else {
                 w.removeObject(this);
             }
