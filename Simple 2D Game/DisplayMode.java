@@ -33,7 +33,7 @@ public class DisplayMode extends Display
             image.clear();//clear image
             image.setColor (Color.WHITE); //sets color black
             image.setFont(new Font ("Helvetica", false, false, 20));//sets font
-            image.drawString ("Dificulty: Normal", 5, 100);//draw words
+            image.drawString ("Difficulty: Normal", 5, 100);//draw words
             setImage (image);//draw the actual image
         }
         else{
@@ -41,7 +41,7 @@ public class DisplayMode extends Display
             image.clear();//clear image
             image.setColor (Color.WHITE); //sets color black
             image.setFont(new Font ("Helvetica", false, false, 20));//sets font
-            image.drawString ("Dificulty: Hard", 5, 100);//draw words
+            image.drawString ("Difficulty: Hard", 5, 100);//draw words
             setImage (image);//draw the actual image
         }
     }
