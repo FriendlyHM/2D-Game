@@ -1,5 +1,4 @@
 # 2D-Game
-Simple 2D game that was coded using Greenfoot
 
 PROJECT TITLE: 2D Monster Shooting
 
